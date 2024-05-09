@@ -1,0 +1,9 @@
+Batch processing is a method of data processing where a set of tasks, jobs, or data is processed in a batch, as a group, rather than individually or in real-time. It involves collecting data, performing operations or transformations on that data, and then producing output or results in a batch mode.
+In batch processing:
+Collection of Data: Data is collected over a period of time or from multiple sources and stored for processing. This data could be transactions, records, files, etc.
+Processing: The collected data is processed in batches, typically at scheduled intervals or when a certain threshold is reached. This processing can involve various operations such as filtering, sorting, transformation, aggregation, or analysis.
+Output Generation: After processing, the results or output are generated. This could be reports, summaries, updated databases, or any other form of processed data.
+Automation: Batch processing is often automated, with predefined scripts or programs performing the processing steps without manual intervention. This automation allows for efficient handling of large volumes of data.
+Batch processing is commonly used in various domains such as data processing, data warehousing, financial transactions, report generation, and system maintenance tasks. It offers advantages such as increased efficiency, reduced manual effort, and improved scalability for handling large datasets. However, it may have drawbacks such as longer processing times and less responsiveness compared to real-time processing methods.
+<img width="1001" alt="Screenshot 2024-05-08 at 8 33 20 PM" src="https://github.com/naresy/Thirty_Days_Data_Engineering_challenge_5th_Day/assets/45518442/7e1ef652-49e9-47ee-8520-98bf27de4092">
+<img width="1001" alt="Screenshot 2024-05-08 at 8 33 41 PM" src="https://github.com/naresy/Thirty_Days_Data_Engineering_challenge_5th_Day/assets/45518442/d9bc5cf0-c623-431a-a55b-18db6f8c9542">
